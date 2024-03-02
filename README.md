@@ -11,13 +11,14 @@
   </samp>
 </p>
 <p>
- <img align="right" width="350" src="./assets/dev.gif" alt="Coding gif" />
+ <img align="right" width="300" height="250" src="./assets/dev.gif" alt="Coding gif" />
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Fraszczak/Fraszczak/issues)
 </p>
 
+
 <br/>
 <br/>
 <br/>
@@ -27,9 +28,19 @@
 <br/>
 <br/>
 <br/>
+
+<p align="center">
+ <a href="https://jajoglowy.pl" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/12071995/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
 
 
 ## Use To Code
+<br/>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,6 +60,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+
 
 <!--
 **Fraszczak/Fraszczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
