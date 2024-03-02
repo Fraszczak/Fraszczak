@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hi there 👋 I am
+        <samp>Hi there 👋 I am
                 <b><a target="_blank" href="">Fraszczak Piotr</a></b>
         </samp>
 </h3>
